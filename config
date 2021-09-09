@@ -203,6 +203,7 @@ bar {
 
         #bumblebee-status
         #link video for to use: https://www.youtube.com/watch?v=4_jL4EHAlsk
+        #link repo github. This contain explication for use too: https://github.com/tobi-wan-kenobi/bumblebee-status
 
 	font pango:Inconsolata 10
 
