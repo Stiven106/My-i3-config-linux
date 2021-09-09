@@ -1,0 +1,2 @@
+cd
+/snap/bin/discord

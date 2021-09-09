@@ -222,7 +222,7 @@ bar {
 
 #Abrir programas con atajos de teclado:
 bindsym $mod+Shift+i exec /opt/jetbrains-toolbox-1.21.9712/jetbrains-toolbox 
-bindsym $mod+Shift+o exec /home/gauce/script.sh
+bindsym $mod+Shift+o exec /home/gauce/.config/i3/scriptsfile/opendiscord.sh
 
 #Colores al estar en una pantalla
 client.focused #bf7500 #0CBFAE #ffe570
